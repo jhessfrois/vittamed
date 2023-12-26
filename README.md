@@ -2,7 +2,7 @@
 
 ![preview](/.github/preview.png)
 
-> Recriação de layout do 2º desafio do curso Explorer da Rocketseat
+> Recriação de layout do 2º desafio de uma landing page simples do curso Explorer da Rocketseat
 
 ## Github Pages
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/vittamed/)
